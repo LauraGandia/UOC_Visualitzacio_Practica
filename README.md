@@ -1,1 +1,17 @@
-# UOC_Visualitzacio_Practica
+# Visualitzacions de la Pràctica II - Laura Gandia Barlocci
+## Introducció a les dades
+El Centre d’Estudis d’Opinió (CEO) recull dades sobre l’opinió pública dels ciutadans de Catalunya des del 2004 sobretot a través del Baròmetre d’Opinió Pública (BOP), una enquesta trimestral a la població amb ciutadania espanyola de 18 i més anys resident a Catalunya que té per objectiu conèixer l’estat de l’opinió pública catalana en relació a l’interès per la política, els mitjans de comunicació, els principals problemes que es detecten, la valoració de la situació política i econòmica, valoració dels líders polítics i institucions i la intenció de vot.
+
+El qüestionari del BOP ha anat evolucionant en els 20 anys en què s’ha aplicat, així com la metodologia emprada per passar les enquestes. Fins el 2014, l’enquesta era telefònica i des de llavors es realitza de manera presencial. És per això, que per al meu estudi he seleccionat les dades només dels últims 10 anys, des del 2014 fins el 2024 (a excepció dels anys 2020 i 2021 que per motius de la pandèmia del COVID19 no es van recollir dades). Concretament, el meu conjunt de dades inclou els registres amb número 746  758,  795,  826, 857,  863,  885,  919, 1019, 1050 i 1082, i les variables en relació a la confiança en les institucions per part de la ciutadania de Catalunya, així com variables sociodemogràfiques i metodològiques.
+
+El mostreig és per quotes i no probabilístic. S’agafa una mostra aleatòria estratificada d’unitats primàries de mostreig (seccions censals) en 6 estrats definits per similitud sociopolítica, selecció de les unitats secundàries (habitatges) segons rutes aleatòries, i unitats últimes (individus) segons quotes. S’estableixen 3 quotes que són el lloc de naixement, el sexe i l’edat. Pel càlcul de les quotes s’ha utilitzat com a base el Padró continu de població de l’any 2022. Les quotes d’edat corresponen als següents intervals: de 18 a 24 anys; de 25 a 34 anys; de 35 a 49 anys; de 50 a 64 anys i 65 i més anys pel total de Catalunya. Les quotes de lloc de naixement corresponen a les següents categories: nascuts a Catalunya; nascuts a la resta d’Espanya i nascuts a l’estranger pel total de Catalunya.
+
+Les dades han estat descarregades i tractades d’acord amb les indicacions del CEO des del seu GitHub.
+
+## Objectiu de la visualització
+Amb la visualització de les dades es vol respondre fonamentalment a les preguntes de si efectivament es pot detectar una tendència cap a la creixent desconfiança en les institucions polítiques, com s'ha analitzat en diferents espais i articles. En quin grau, cap a quines, en quins territoris i de part de quins grups socials. Hi ha una tendència evolutiva o els esdeveniments polítics i socials de cada any (context força agitat els últims 10 anys a Catalunya) provoca que no hi hagi una tendència clara? Totes les institucions gaudeixen de la mateixa confiança? Són les institucions més pròximes a la ciutadania les que generen més confiança o és tot el contrari? Es pot dibuixar un mapa territorial de Catalunya amb una distribució diferenciada pel que fa la confiança en les institucions? Homes i dones tenen graus similars de confiança, cap a quines? I les persones joves, tendeixen a valorar de manera més negativa el sistema polític? Quina és la percepció de les institucions d’acollida per a les persones migrants?
+ 
+## Enllaç a la visualització
+Aquí s'hi troba l'enllaç a l'inorme on s'analitzen diferents aspectes en relació a la Confiança en diferents Institucions Polítiques per part de la ciutadania de Catalunya entre 2014 i 2024, dades recopilades del CEO:
+
+Aquest informe també està penjat format PDF en el repositori.
